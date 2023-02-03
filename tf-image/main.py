@@ -34,7 +34,7 @@ class req_image(BaseModel):
 
 @app.post('/plant_disease')
 async def get_disease(image: req_image):
-    b64_image = str(image.img)
+    b64_image = image.img
     in_image = get_from_b64(b64_string=b64_image)
     model = Interpreter('./model/beta_plant_disease.tflite')
     model.allocate_tensors()
