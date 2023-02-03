@@ -1,0 +1,28 @@
+0 Apple Apple_scab
+1 Apple Black_rot
+2 Apple Cedar_apple_rust
+3 Apple healthy
+4 no_plant no_disease
+5 Corn Cercospora_leaf_spot Gray_leaf_spot
+6 Corn Common_rust
+7 Corn healthy
+8 Corn Northern_Leaf_Blight
+9 Grape Black_rot
+10 Grape Esca_(Black_Measles)
+11 Grape healthy
+12 Grape Leaf_blight_(Isariopsis_Leaf_Spot)
+13 Potato Early_blight
+14 Potato healthy
+15 Potato Late_blight
+16 Strawberry healthy
+17 Strawberry Leaf_scorch
+18 Tomato Bacterial_spot
+19 Tomato Early_blight
+20 Tomato healthy
+21 Tomato Late_blight
+22 Tomato Leaf_Mold
+23 Tomato Septoria_leaf_spot
+24 Tomato Spider_mites Two-spotted_spider_mite
+25 Tomato Target_Spot
+26 Tomato Tomato_mosaic_virus
+27 Tomato Tomato_Yellow_Leaf_Curl_Virus
